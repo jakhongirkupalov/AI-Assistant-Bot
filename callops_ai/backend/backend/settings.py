@@ -125,4 +125,5 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/6.0/howto/static-files/
 
 STATIC_URL = 'static/'
-TELEGRAM_BOT_TOKEN = "8590935616:AAErb38oTqHePf_CQwZqNJkfhERkDNXECQA"
+TELEGRAM_BOT_TOKEN = "Bu yerga telegram bot tokenni yozing!!!"
+
